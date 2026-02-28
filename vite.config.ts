@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: '/https://mixxa02.github.io/aurel.github.io/',
+  base: '/',
   build: {outDir: 'dist'},
   server: {
     host: "::",
